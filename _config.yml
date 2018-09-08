@@ -1,4 +1,3 @@
 name: SLO GOATSSS
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-permalink: /eventi/:year/:month/:day/:title
