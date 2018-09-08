@@ -1,4 +1,5 @@
 name: SLO GOATSSS
 markdown: kramdown
+future: true
 permalink: /blog/:year/:month/:day/:title
 permalink: /profiliIgralcev/:year/:month/:day/:title
