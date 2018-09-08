@@ -13,7 +13,7 @@ layout: feed
 		<email>slogoatsss@gmail.com</email>
 	</author>
 
-	{% for post in site.posts %}
+	{% for post in site.postsBlog %}
 		<entry>
 			<title>{{ post.title }}</title>
 			<link href="http://slogoatsss.github.io{{ post.url }}"/>
