@@ -1,9 +1,11 @@
 ---
-layout: default
-title: SLOGOATSSS
+layout: post
+title: Deckliste
 ---
-<div class="blurb">
-	<h1>tuki bojo decklist </h1>
-  <h2> prou zares, zares </h2>
-	<p>kako dodam sem nove linke huehue</a></p>
-</div><!-- /.blurb -->
+	<h1>{{ page.title }}</h1>
+	<ul class="posts">
+
+	  {% for post in site.postsDeckliste %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
