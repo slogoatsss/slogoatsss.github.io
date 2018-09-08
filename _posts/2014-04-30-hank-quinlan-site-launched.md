@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "primer"
+title: prviblog
 date: 2014-04-30
 ---
 
