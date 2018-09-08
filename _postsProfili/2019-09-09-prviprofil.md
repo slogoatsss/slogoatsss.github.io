@@ -4,4 +4,4 @@ title: "prvi profil"
 date: 2018-09-08
 ---
 
-delete
+profil
