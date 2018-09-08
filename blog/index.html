@@ -3,9 +3,9 @@ layout: default
 title: Blog in novičke
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="postsBlog">
+	<ul class="postsblog">
 
-	  {% for post in site.postsBlog %}
+	  {% for post in site.postsblog %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
