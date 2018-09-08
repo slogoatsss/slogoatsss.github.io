@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: post
 title: Prvi event
 date: 2018-09-08
 ---
