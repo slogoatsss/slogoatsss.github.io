@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "prvi profil"
+title: "profil"
 date: 2018-09-08
 ---
 
-profil
+asshole datum
