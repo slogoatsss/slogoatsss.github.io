@@ -1,4 +1,8 @@
 body {
+    background-image: url("scape2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: 60px auto;
     width: 70%;
 }
