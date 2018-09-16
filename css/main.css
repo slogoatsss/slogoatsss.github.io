@@ -41,4 +41,4 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
+#autosizeImage {  width: 100%;  height: auto; } 
