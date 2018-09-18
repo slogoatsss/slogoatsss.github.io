@@ -29,6 +29,6 @@ V Goatih ni unbreakable boardov, večkratnih effect / spell / trap negacij, čez
 
 In tako sem se pridno in počasi poglabljal v Goat Format. Nekoč je Jaka prinesel še en drugi deck, ki ni bil podoben prejšnjemu – igral je namreč obilico level 4 pošasti z močnim napadom in me nasekal še z njim. Takrat sem komaj zares dojel, da je bil to včasih pravi Yu-Gi-Oh! Format z obilico različnih deckov, ne le “goat control mirror”, kot smo do takrat vedno igrali. Veliko, veliko sem se še moral naučiti.
 
-S časom sem se učil nove stvari, nove trike. Skoraj vsak match nekaj novega. In tako še do danes! Ne verjameš, koliko kompleksnosti skriva v tem 13 let starm cardpoolu, dokler se sam ne poglobiš v to. In ne pričakujem, da verjameš sedaj, ko sem to napisal.
+S časom sem se učil nove stvari, nove trike. Skoraj vsak match nekaj novega. In tako še do danes! Ne verjameš, koliko kompleksnosti sr skriva v tem 13 let starem cardpoolu, dokler se sam ne poglobiš v to. In ne pričakujem, da verjameš sedaj, ko sem to napisal.
 
 Zato pa poskusi.
