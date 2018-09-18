@@ -1,7 +1,7 @@
 ---
 layout: post
-title: GOAT SEZONA 2018 -- 2019
-date: 2018-09-15
+title: Iz Mete v Goate
+date: 2018-09-18
 ---
 Iz Mete v Goate
 
