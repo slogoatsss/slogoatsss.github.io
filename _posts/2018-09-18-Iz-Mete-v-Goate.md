@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Iz Mete v Goate
+title: IZ METE V GOATE
 date: 2018-09-18
 ---
 Iz Mete v Goate
