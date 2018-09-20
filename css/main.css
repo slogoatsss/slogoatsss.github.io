@@ -1,9 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-}
-.container{
-    background-image: url("scape2.jpg");
+	background-image: url("scape2.jpg");
 	background-position: right center;
 	background-size: 300px 300px;
 	background-repeat: no-repeat;
