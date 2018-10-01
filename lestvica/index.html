@@ -6,8 +6,13 @@ title: Lestvica
 	$("document").ready(function(){
 		$.get('ranking.txt',function(data){
    			console.log(data);
+			fill(data);
 		},'text');
 	});
+	var fill=function(data){
+		var lines=data.split("\n");
+		console.log(lines);
+	};
 	/*include $*/
 </script>
 <div class="blurb">
