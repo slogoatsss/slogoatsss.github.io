@@ -15,7 +15,11 @@ title: Lestvica
 				continue;
 			}
 			var datarray=lines[i].split("-");
-			$("#seznam").append("<li>Ime in priimek: "+datarray[0]+" | Število točk: "+datarray[1]+"</li>");
+			lines[i]=datarray;
+		}
+		
+		for(var i in lines){
+			$("#seznam").append("<li>Ime in priimek: "+lines[i][0]+" | Število točk: "+lines[i][1]+"</li>");
 		}
 	};
 	/*include $*/
