@@ -20,6 +20,9 @@ title: Lestvica
 			lines[i]=datarray;
 		}
 		console.log(lines);
+		lines.sort(function(a,b){
+			return a[0]-b[0];
+		});
 		for(var i in lines){
 			$("#seznam").append("<li>Ime in priimek: "+lines[i][0]+" | Število točk: "+lines[i][1]+"</li>");
 		}
