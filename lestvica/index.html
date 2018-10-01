@@ -12,7 +12,7 @@ title: Lestvica
 		var lines=data.split("\n");
 		for(var i in lines){
 			var datarray=lines[i].split("-");
-			console.log(datarray);
+			$("#seznam").append("<li>Ime in priimek: "+datarray[0]+" | Število točk: "+datarray[1]+"</li>");
 		}
 	};
 	/*include $*/
