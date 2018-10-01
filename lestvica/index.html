@@ -13,6 +13,7 @@ title: Lestvica
 		console.log(lines);
 		for(var i in lines){
 			if(lines[i]==""){
+				lines.splice(i,1);
 				continue;
 			}
 			var datarray=lines[i].split("-");
