@@ -5,14 +5,13 @@ title: Lestvica
 <script type="text/javascript">
 	$("document").ready(function(){
 		$.get('ranking.txt',function(data){
-   			console.log(data);
 			fill(data);
 		},'text');
 	});
 	var fill=function(data){
 		var lines=data.split("\n");
-		console.log(lines);
 		for(var i in lines){
+			console.log(i);
 			var datarray=i.split("-");
 			console.log(datarray);
 		}
