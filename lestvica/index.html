@@ -11,6 +11,9 @@ title: Lestvica
 	var fill=function(data){
 		var lines=data.split("\n");
 		for(var i in lines){
+			if(lines[i]==""){
+				continue;
+			}
 			var datarray=lines[i].split("-");
 			$("#seznam").append("<li>Ime in priimek: "+datarray[0]+" | Število točk: "+datarray[1]+"</li>");
 		}
