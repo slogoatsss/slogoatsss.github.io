@@ -12,6 +12,11 @@ title: Lestvica
 	var fill=function(data){
 		var lines=data.split("\n");
 		console.log(lines);
+		for(var i in lines){
+			var ime=i.split("-")[0];
+			var tocke=i.split("-")[1];
+			console.log("Ime: "+ime+" Točke: "+tocke);
+		}
 	};
 	/*include $*/
 </script>
