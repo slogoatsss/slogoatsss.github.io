@@ -4,7 +4,9 @@ title: Lestvica
 ---
 <script type="text/javascript">
 	$("document").ready(function(){
-		console.log("benis");
+		$.get('file_to_read.txt',function(data){
+   			console.log(data);
+		},'text');
 	});
 	/*include $*/
 </script>
