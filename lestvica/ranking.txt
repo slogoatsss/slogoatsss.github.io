@@ -1,8 +1,8 @@
-Miha Flisek-10
-Jaka Fortunat-8
-Jaka Basej-6
-Luka Krašna-6
-Matija Saksida-6
-Nik Vidmar-6
-Alen Bizjak-7
-Gašper Govekar-0
+Miha Flisek-10-3-0-1-1
+Jaka Fortunat-8-3-1-0-1
+Jaka Basej-6-2-2-0-1
+Luka Krašna-6-2-2-0-1
+Matija Saksida-6-2-2-0-1
+Nik Vidmar-6-2-2-0-1
+Alen Bizjak-7-2-1-1-1
+Gašper Govekar-0-0-4-0-1
