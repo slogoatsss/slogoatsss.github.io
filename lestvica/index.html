@@ -11,9 +11,6 @@ title: Lestvica
 	var fill=function(data){
 		var lines=data.split("\n");
 		for(var i in lines){
-			console.log(lines[i]);
-			console.log(lines[i].length===0);
-			console.log(lines[i].charAt(0)==";");
 			if(lines[i].length===0||lines[i].charAt(0)==";"){
 				lines.splice(i,1);
 				continue;
@@ -24,11 +21,9 @@ title: Lestvica
 		lines.sort(function(a,b){
 			return b[1]-a[1];
 		});
-		console.log(lines);
 		for(var i in lines){
 			if(lines[i].length!==0){
-				$("#ime").append("<li>"+lines[i][0]+"</li>");
-				$("#tocke").append("<li>"+lines[i][1]+"</li>");
+				
 			}
 		}
 	};
@@ -36,46 +31,5 @@ title: Lestvica
 </script>
 <div class="blurb">
 	<h1>Lestvica igralcev lige 2018/19</h1>
-	<p>
-	<div style="float: left; width: 12%;">
-		<ul id="ime" style="list-style: none">
-			<li><h5>Ime in priimek</h5></li>
-		</ul>
-	</div>
-	<div style="float: left; width: 12%;">
-		<ul id="tocke" style="list-style: none">
-			<li><h5>Točke</h5></li>
-		</ul>
-	</div>
-	<div style="float: left; width: 12%;">
-		<ul id="zmage" style="list-style: none">
-			<li><h5>Zmage</h5></li>
-		</ul>
-	</div>
-	<div style="float: center; width: 12%;">
-		<ul id="porazi" style="list-style: none">
-			<li><h5>Porazi</h5></li>
-		</ul>
-	</div>
-	<div style="float: center; width: 12%;">
-		<ul id="drawi" style="list-style: none">
-			<li><h5>Izenačene igre</h5></li>
-		</ul>
-	</div>
-	<div style="float: right; width: 12%;">
-		<ul id="zmage" style="list-style: none">
-			<li><h5>Zmage</h5></li>
-		</ul>
-	</div>
-	<div style="float: right; width: 12%;">
-		<ul id="turnirji" style="list-style: none">
-			<li><h5>Število turnirjev</h5></li>
-		</ul>
-	</div>
-	<div style="float: right; width: 12%;">
-		<ul id="average" style="list-style: none">
-			<li><h5>Povprečje točk na turnir</h5></li>
-		</ul>
-	</div>
-	</p>
+	
 </div><!-- /.blurb -->
