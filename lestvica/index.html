@@ -23,7 +23,10 @@ title: Lestvica
 		});
 		for(var i in lines){
 			if(lines[i].length!==0){
-				
+				var average=lines[i][1]/lines[i][5];
+				console.log(lines[i]);
+				console.log(average);
+				$("tabel").append("<tr><td>"+lines[i][0]+"</td><td>"+lines[i][1]+"</td><td>"+lines[i][2]+"</td><td>"+lines[i][3]+"</td><td>"+lines[i][4]+"</td><td>"+lines[i][5]+"</td><td>"+average+"</td></tr>");
 			}
 		}
 	};
@@ -35,6 +38,7 @@ title: Lestvica
 		padding: 5px;
 		border: 1px solid black;
 		border-collapse: collapse;
+		font-family: arial, sans-serif;
 	}
 	th{
 		background-color: light-pink;
@@ -45,7 +49,7 @@ title: Lestvica
 </style>
 <div class="blurb">
 	<h1>Lestvica igralcev lige 2018/19</h1>
-	<table style="width: 100%">
+	<table id="tabela" style="width: 90%, float: center">
 		<tr>
 			<th><h3>Ime in priimek</h3></th>
 			<th><h3>Točke</h3></th>
