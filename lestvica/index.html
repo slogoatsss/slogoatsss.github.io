@@ -11,7 +11,7 @@ title: Lestvica
 	var fill=function(data){
 		var lines=data.split("\n");
 		for(var i in lines){
-			if(lines[i]===""||lines[i].charAt(0)==";"){
+			if(lines[i].length<1||lines[i].charAt(0)==";"){
 				lines.splice(i,1);
 				continue;
 			}
