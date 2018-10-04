@@ -1,9 +1,9 @@
-Miha Flisek-10-3-0-1-1
-Jaka Fortunat-8-2-0-2-1
-Jaka Basej-6-2-2-0-1
-Luka Krašna-6-2-2-0-1
-Matija Saksida-6-2-2-0-1
-Nik Vidmar-6-2-2-0-1
-Alen Bizjak-7-2-1-1-1
-Gašper Govekar-0-0-4-0-1
-;i&p-točke-zmage-porazi-drawi-št.turnirjev
+Miha Flisek-3-0-1-1
+Jaka Fortunat-2-0-2-1
+Jaka Basej-2-2-0-1
+Luka Krašna-2-2-0-1
+Matija Saksida-2-2-0-1
+Nik Vidmar-2-2-0-1
+Alen Bizjak-2-1-1-1
+Gašper Govekar-0-4-0-1
+;i&p-zmage-porazi-drawi-št.turnirjev
