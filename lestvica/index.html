@@ -23,14 +23,10 @@ title: Lestvica
 			return b[5]-a[5];
 		});
 		for(var i in lines){
-			console.log(lines[i]);
-			/*
 			if(lines[i].length!==0){
-				var point=3*parseInt(lines[i][1])+parseInt(lines[i][3]);
-				var average=point/lines[i][4];
-				$("#tabela").append("<tr><td>"+lines[i][0]+"</td><td>"+point+"</td><td>"+lines[i][1]+"</td><td>"+lines[i][2]+"</td><td>"+lines[i][3]+"</td><td>"+lines[i][4]+"</td><td>"+average+"</td></tr>");
+				var average=parseFloat(lines[i][5]/parseInt(lines[i][4]));
+				$("#tabela").append("<tr><td>"+lines[i][0]+"</td><td>"+lines[i][5]+"</td><td>"+lines[i][1]+"</td><td>"+lines[i][2]+"</td><td>"+lines[i][3]+"</td><td>"+lines[i][4]+"</td><td>"+average+"</td></tr>");
 			}
-			*/
 		}
 	};
 	/*include $*/
