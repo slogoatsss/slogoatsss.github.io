@@ -16,17 +16,21 @@ title: Lestvica
 				continue;
 			}
 			var datarray=lines[i].split("-");
+			datarray.push(3*parseInt(datarray[1])+parseInt(datarray[3]));
 			lines[i]=datarray;
 		}
 		lines.sort(function(a,b){
-			return b[1]-a[1];
+			return b[5]-a[5];
 		});
 		for(var i in lines){
+			console.log(lines[i]);
+			/*
 			if(lines[i].length!==0){
 				var point=3*parseInt(lines[i][1])+parseInt(lines[i][3]);
 				var average=point/lines[i][4];
 				$("#tabela").append("<tr><td>"+lines[i][0]+"</td><td>"+point+"</td><td>"+lines[i][1]+"</td><td>"+lines[i][2]+"</td><td>"+lines[i][3]+"</td><td>"+lines[i][4]+"</td><td>"+average+"</td></tr>");
 			}
+			*/
 		}
 	};
 	/*include $*/
