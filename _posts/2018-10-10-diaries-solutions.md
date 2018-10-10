@@ -4,8 +4,9 @@ title: DIARIES OF A MONARCH MADMAN - IN SEARCH OF SOLUTIONS
 date: 2018-10-10
 ---
 **DIARIES OF A MONARCH MADMAN:
-IN SEARCH OF SOLUTIONS:**
+IN SEARCH OF SOLUTIONS**
 »Neglecta solent incendia sumere vires« (Horacij) – »zanemarjeni ognji imajo navado se okrepiti«
+
 Monarch deck je do danes verjetno moj največji »yugioh projekt«, če temu lahko tako rečem. Do tega ni vodila le želja po igranju nekaj drugačnega, ampak tudi sama navezanost na te »mornarje«, kakor jim s prijatelji pravim.
 Pred kratkim je nekdo izjavil: »Igranje Monarchov je kakor loterija, lahko drawaš combo piece in popolnoma uničiš nasprotnike ali preprosto brickneš z roko polno Monarchov ali Soul-spellk«. Priznam, imel je prav. Poleg tega moraš paziti še na Thousand-Eyes Restricta, Tsukuyomi, Snatch Steal... Monarchi so res dvorezni meč, ki za svoje Effecte plačajo visoko ceno. Večini se zdi, da niso vredni vloženega časa in res, tudi sam sem že enkrat v preteklosti obupal nad njimi. Zakaj sem si premislil in jih ponovno začel igrati?
 Odgovor je preprost, v njih sem našel po domače rečeno »mwč«, odgovor na vsako karto, ki mi jo lahko nasprotnik pripravi z namenom, da bi mi zagrenila igro.
