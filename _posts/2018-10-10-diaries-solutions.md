@@ -5,6 +5,7 @@ date: 2018-10-10
 ---
 **DIARIES OF A MONARCH MADMAN:
 IN SEARCH OF SOLUTIONS**
+
 »Neglecta solent incendia sumere vires« (Horacij) – »zanemarjeni ognji imajo navado se okrepiti«
 
 Monarch deck je do danes verjetno moj največji »yugioh projekt«, če temu lahko tako rečem. Do tega ni vodila le želja po igranju nekaj drugačnega, ampak tudi sama navezanost na te »mornarje«, kakor jim s prijatelji pravim.
