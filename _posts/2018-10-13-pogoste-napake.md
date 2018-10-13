@@ -22,13 +22,13 @@ Kako bi pravzaprav lahko definiral, kaj pomeni »igranje okoli« nekomu, ki tega
 
 Okoli vsake karte se da igrati. Čim več konkretnih primerov bom poskusil navesti kar v naslednjih sekcijah.
 
- 2. Napačen vrstni red: Nobleman of Crossout in Summon
+2. Napačen vrstni red: Nobleman of Crossout in Summon
 
 Poglejmo tale scenarij: nasprotnik ima setanega monstra in backrow, Torrential Tribute je še vedno v igri. Mi imamo Nobleman of Crossout, monstra na polju (npr. D. D. Assailant) in monstra v roki, ki bi ga še želeli summonati. Lahko igramo Nobleman of Crossout in nato summonamo svojega monstra, ali pa najprej summonamo svojega monstra in nato damo Nobleman of Crossout. Razlika je pravzaprav dokaj velika: v prvem primeru ne igramo okoli Torrential Tribute, v drugem pa ja. Verjetno obstaja kakšna absurdna situacija, v kateri bi hoteli nasprotnika prisiliti, da nam s Torrentialom uniči oba monstra, vendar v večini primerov tega nočemo in je zato pomembno, da izberemo drugi scenarij.
 
 S tem, ko summonamo monstra pred aktivacijo Noblemana, naredimo nasprotnikov Torrential Tribute slabši, saj bi v primeru, da ga aktivira, uničil tudi svojega setanega monstra in nam bi Nobleman of Crossout ostal za drugič.
 
- 3. MST, Dust Tornado
+3. MST, Dust Tornado
 
 Članek o MSTju pravzaprav že obstaja. Pa ne le eden. Preberite jih na cardtraders blogu.
 
@@ -86,47 +86,47 @@ Nobleman of Crossout je primarno namenjen nasprotnikovemu Magician of Faithu, ne
 
 Če je nasprotnik aktiviral trinity in setal monstra:
 
-Nobleman
+    Nobleman
 
 Če ni aktiviral trinity:
 
-Če imam svojega beaterja in fliperja:
+    Če imam svojega beaterja in fliperja:
 
-Če imam Tsukuyomi:
+        Če imam Tsukuyomi:
 
--Nobleman + set fliper
+            -Nobleman + set fliper
 
-Če nimam Tsukuyomi:
+        Če nimam Tsukuyomi:
 
--napadi z beaterjem
+            -napadi z beaterjem
 
-Če napad ne gre skozi:
+            Če napad ne gre skozi:
 
--Nobleman
+                -Nobleman
 
-Če gre:
+            Če gre:
 
--vse ok
+                -vse ok
 
-Če imam le fliperja:
+    Če imam le fliperja:
 
-- Nobleman + set fliper
+        - Nobleman + set fliper
 
-Če imam le beaterja:
+    Če imam le beaterja:
 
--napadi z beaterjem
+        -napadi z beaterjem
 
-Če napad ne gre skozi:
+        Če napad ne gre skozi:
 
--Nobleman
+            -Nobleman
 
-Če gre:
+        Če gre:
 
--vse ok
+            -vse ok
 
-Če nimam nič:
+        Če nimam nič:
 
--Nobleman
+            -Nobleman
 
 …
 
