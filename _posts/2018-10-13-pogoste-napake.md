@@ -46,9 +46,9 @@ Izjemoma lahko MSTjamo v svojem krogu nek backrow, za katerega smo prepričani, 
 
 Za Dust Tornado velja isto, kot velja za MST. Omogoča pa nam vsaj še 2 trika zaradi svojega drugega efekta, ki nam dovoljuje, da ob resoluciji setamo en backrow iz roke. To pride še posebej prav v dveh primerih:
 
-1. Nasprotnik v svojem turnu aktivira Morphing Jar
+- Nasprotnik v svojem turnu aktivira Morphing Jar
 
-2. Nasprotnik aktivira Delinquent Duo, ko imamo v roki 2 karti in ena od teh je spell / trap.
+- Nasprotnik aktivira Delinquent Duo, ko imamo v roki 2 karti in ena od teh je spell / trap.
 
 4. Black Luster Soldier – Envoy of the Beginning
 
