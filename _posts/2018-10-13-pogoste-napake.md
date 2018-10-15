@@ -12,7 +12,7 @@ POGOSTE NAPAKE
 
 Ta članek bo predstavil nekatere pogoste scenarije, v katerih se igralci - še posebej tisti, ki se prvič srečujejo z Goat Formatom - pogosto zmotijo.
 
-1. Igranje okoli »power« kart
+**Igranje okoli »power« kart**
 
 Prva stvar, po kateri se Goat Format razlikuje od modernega Yu-Gi-Oh! je trajanje igre in s tem posledično tudi delež decka, ki ga v igri vidimo. To je logično in samoumevno; več turnov, kot traja ena igra, večkrat bomo na potezi, večkrat bomo drawali v Draw Phase. Z roko v roki s tem gre dejstvo, da bomo proti nasprotniku v Goat Formatu v večini iger tudi srečali tiste karte, ki so omejene na 1 (mogoče ne v večini, si pa v vsakem primeru zaslužijo - zaradi svoje moči - da igramo okoli njih). Napaka, ki jo novi igralci naredijo, je ta, da se v resnici ne zavedajo zgoraj povedanega. Igral sem proti ljudem (nekaj v resničnem svetu, več pa na [www.duelingbook.com](http://www.duelingbook.com/)), ki so cele igre setali ves svoj backrow. Še posebej dobro se spomnim enega primera, ko je nasprotnik turn 1 setal 4 backrow in monstra. Na srečo sem dejansko imel takrat Heavy Storm, ga odpihnil in od takrat je bila le še formalnost zaključiti igro. Zanimivo, da se fant iz tega ni nič naučil in je v naslednji igri spet setal 3 backrowe. Vprašal sem ga, če bi rad spet padel na Heavy Storm in odgovoril mi je, dokaj arogantno, da Heavy Storm je samo eden, »lel«.
 
