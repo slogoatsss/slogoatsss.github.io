@@ -22,13 +22,13 @@ Kako bi pravzaprav lahko definiral, kaj pomeni »igranje okoli« nekomu, ki tega
 
 Okoli vsake karte se da igrati. Čim več konkretnih primerov bom poskusil navesti kar v naslednjih sekcijah.
 
-2. Napačen vrstni red: Nobleman of Crossout in Summon
+**Napačen vrstni red: Nobleman of Crossout in Summon
 
 Poglejmo tale scenarij: nasprotnik ima setanega monstra in backrow, Torrential Tribute je še vedno v igri. Mi imamo Nobleman of Crossout, monstra na polju (npr. D. D. Assailant) in monstra v roki, ki bi ga še želeli summonati. Lahko igramo Nobleman of Crossout in nato summonamo svojega monstra, ali pa najprej summonamo svojega monstra in nato damo Nobleman of Crossout. Razlika je pravzaprav dokaj velika: v prvem primeru ne igramo okoli Torrential Tribute, v drugem pa ja. Verjetno obstaja kakšna absurdna situacija, v kateri bi hoteli nasprotnika prisiliti, da nam s Torrentialom uniči oba monstra, vendar v večini primerov tega nočemo in je zato pomembno, da izberemo drugi scenarij.
 
 S tem, ko summonamo monstra pred aktivacijo Noblemana, naredimo nasprotnikov Torrential Tribute slabši, saj bi v primeru, da ga aktivira, uničil tudi svojega setanega monstra in nam bi Nobleman of Crossout ostal za drugič.
 
-3. MST, Dust Tornado
+**MST, Dust Tornado
 
 Članek o MSTju pravzaprav že obstaja. Pa ne le eden. Preberite jih na cardtraders blogu.
 
@@ -36,9 +36,9 @@ Konkretno za Goate si pa velja zapomniti, da je MST najbolje uporabljen takrat, 
 
 Še ena vrsta situacij, ki se pojavi redkeje, je ta, ko MSTjamo v svojem turnu že star nasprotnikov backrow. To lahko ponavadi naredimo, ko sta izpolnjena vsaj 2 pogoja:
 
-1. Če nasprotnik ne bi imel tega backrowa, ki ga bomo MSTjali, lahko z gotovostjo zmagamo ta turn
+   1. Če nasprotnik ne bi imel tega backrowa, ki ga bomo MSTjali, lahko z gotovostjo zmagamo ta turn
 
-2. Če je ta backrow Scapegoat, lahko še vedno lahko zmagamo ta turn (npr. Tribe Infecting Virus ali Asura Priest).
+   2. Če je ta backrow Scapegoat, lahko še vedno lahko zmagamo ta turn (npr. Tribe Infecting Virus ali Asura Priest).
 
 Lahko smo še bolj previdni; nasprotnikov backrow je lahko njegov lasten MST ali Dust Tornado, ki nam lahko uniči setan Premature Burial, ki smo ga potrebovali za zmago ali pa je Book of Moon, ki nam bo setal TERa in sedaj ne moremo napasti za zmago, itd.
 
@@ -46,15 +46,15 @@ Izjemoma lahko MSTjamo v svojem krogu nek backrow, za katerega smo prepričani, 
 
 Za Dust Tornado velja isto, kot velja za MST. Omogoča pa nam vsaj še 2 trika zaradi svojega drugega efekta, ki nam dovoljuje, da ob resoluciji setamo en backrow iz roke. To pride še posebej prav v dveh primerih:
 
-   - Nasprotnik v svojem turnu aktivira Morphing Jar
+   1. Nasprotnik v svojem turnu aktivira Morphing Jar
 
-   - Nasprotnik aktivira Delinquent Duo, ko imamo v roki 2 karti in ena od teh je spell / trap.
+   2. Nasprotnik aktivira Delinquent Duo, ko imamo v roki 2 karti in ena od teh je spell / trap.
 
-4. Black Luster Soldier – Envoy of the Beginning
+**Black Luster Soldier – Envoy of the Beginning
 
 Najmočnejšega monstra v Goat Formatu je presenetljivo lahko odigrati neoptimalno. Če ga summonamo samo zato, da napademo za 3000 LP, je to ponavadi slaba ideja (razen če nasprotnik nima nič ali zelo malo kart). BLS je najbolje izkoriščen takrat, ko lahko ob summonu banisha monstra ali pa 2x napade za ogromno škode *in ga lahko vsaj minimalno zaščitimo. *S tem mislim na Book of Moon ali MST / Dust Tornado. Book of Moon bo BLSja obranil pred TER-om, Ringom, Snatch Stealom... MST pa le pred Snatch Stealom. Na srečo ga pred najnevarnejšim Snatch Stealom obranita oba Quick-Spella.
 
-5. Thousand – Eyes Restrict
+**Thousand – Eyes Restrict
 
 Ta bi si tudi zaslužil svoj članek ali knjigo. Morda jo kdaj napišem. Po ideji prijatelja, bi bil njen naslov »TERoslovje for Dummies«. A za zdaj bom kratek.
 
@@ -62,13 +62,13 @@ Veliko igralcev summona TERa, ukrade setanega monstra... in konča. Ker nimajo v
 
 TER je toliko dober, kolikor je dober njegov lastnik. Če smo v prednosti pred nasprotnikom in potem zaklenemo igro s TER (ponavadi še z 0 napada) smo naredili ogromno uslugo nasprotniku, ki bo sedaj imel večjo možnost, da se pobere. Zato previdno.
 
-6. Scapegoat
+**Scapegoat
 
 Scapegoat je praktično -1, če jo aktiviramo za brezveze in izgubimo vse tokene v roku dveh turnov. Včasih je tudi to potrebno, da se sploh ohranimo v igri, vendar večino iger ni tako.
 
 Največjo vrednost dobimo iz Scapegoata, če jo chainamo na nasprotnikovega Breakerja (kar se bo zgodilo veliko večkrat, kot mislite). Praktično nikoli pa se ne splača aktivirati Scapegoata izven nasprotnikovega Battle Phasea ali End Phasea (razen seveda, če ga chainamo na kaj) – karte držimo neodigrane kolikor se da dolgo. To nas privede do naslednje sekcije.
 
-7. Prehitro odigrane karte
+**Prehitro odigrane karte
 
 Najpogosteje se zgodi, da novi igralci odigrajo Graceful Charity takoj, ko ga vidijo. To ni niti potrebno niti optimalno v večini primerov, saj je Charity najboljše porabljen, ko ga kombiniramo s Sinister Serpentom. Ker so Goat igre ponavadi dolge, je velikokrat dobra ideja s Charitijem čakati na njega. To pa ni pravilo – so situacije, v katerih želimo aktivirati Charity tudi brez Serpenta; npr. ko smo pod velikim pritiskom, nimamo nobenega dobrega nadaljevanja s trenutno roko, ali pa bi radi čimprej prišli do kakšne specifične karte (ponavad Heavy Storm ali Nobleman of Crossout).
 
@@ -78,7 +78,7 @@ Ring of Destruction si po mojem mnenju tudi zasluži svoj odstavek. Karta je naj
 
 Ko smo že pri Snatch Stealu: ne bodite tisti igralec, ki v svojem drugem krogu aktivira Snatch Steal na nasprotnikovega Breaker the Magical Warriorja, ki je že porabil svoj effekt in nato z njim napade. Snatch Steal je mišljen za večje, boljše stvar. Včasih lahko ukrade BLSja in skupaj z njim igro. Dostikrat lahko ukrade Airknight Parshata. V posebnem primeru lahko ukrade tudi npr. nasprotnikovega Magician of Faitha (kadar imamo v roki Tsukuyomi) – vendar pozor – če ima nasprotnik v tej situaciji Book of Moon smo izgubljeni. Nekaj podobnega velja tudi, ko ima nasprotnik TER-a in vsaj še enega monstra, le da v tem primeru Book of Moon ni tako dober counter, saj bomo z lahkoto napadli setanega TERa.
 
-8. 1st turn Nobleman of Crossout
+**1st turn Nobleman of Crossout
 
 Najlažje je Nobleman of Crossout aktivirati takoj, ko je mogoče in v večini primerov to niti ni slab play. Vendar smo lahko boljši.
 
@@ -132,39 +132,39 @@ Nobleman of Crossout je primarno namenjen nasprotnikovemu Magician of Faithu, ne
 
 To je mišljeno kot zabavna ponazoritev za v razmislek, ne pa kot pravila, ki se jih vedno držim. Vse skupaj je odvisno od vseh mojih kart v roki in od tega, koliko backrowa je nasprotnik setal in kdo nasprotnik sploh je. Če ga poznam ali če je popolni neznanec bom verjetno ob isti roki igral drugače. Vsekakor pa želim, da od tega odnesete vsaj to, da boste ob Noblemanu razmišljali, ne le odigrali karte samo zato, ker jo lahko.
 
-9. 1st turn Magician of Faith
+**1st turn Magician of Faith
 
 Prej smo bili postavljeni v vlogo igralca, katermu je nasprotnik v prvem krogu aktiviral trinity in setal monstra. Sedaj smo mi ta nasprotnik. Po aktiviranem trinitiju lahko setamo Magician of Faitha in upamo, da nasprotnik nima Noblemana ali pa najprej preverimo situacijo z nekim drugim setom. Če ima nasprotnik Noblemana, ga bo bil skoraj gotovo primoran aktivirati, saj si ne more privoščiti, da se naš Faith uspešno aktivira. Če ga ima in ga bo aktiviral, pa zelo verjetno nima še enega Noblemana za našega dejanskega Faitha, ki smo si ga prišparali. Ta razmislek je verjetno solidno vodilo za večino iger, vsaj proti neznancem – če boste proti prijatelju vedno igrali na ta način, vas bo po nekaj igrah »pogruntal« in treba bo igrati kako drugače.
 
-10. 2 beaterja proti 1 TER
+**2 beaterja proti 1 TER
 
 Nekajkrat sem bil priča situaciji, ko je igralec imel na polju beaterja, ob njega summonal še enega beaterja in napadel. Lahko predpostavimo, da v igri ni več niti Mirror Forca niti Torrentiala, ki bi ga lahko kaznovala, pa je to vseeno dokaj nespametno v primeru, ko igralec nima obrambe proti TERu. Zato lahko 2 beaterja pogosto naletita na Scapegoat, v naslednjem turnu pa na Metamorphoso in brez pravega backrowa bosta tako oba hitro postala pokojna. Imejte v mislih take situacije in če nimate pravega odgovora na next turn TER, je mogoče boljše napasti samo z enim beaterjem in poleg njega potem setati fliperja.
 
-11. 1st turn Breaker the Magical Warrior
+**1st turn Breaker the Magical Warrior
 
 Še ena stvar, o kateri bi se lahko napisalo knjigo. Če boste odigrali dovolj iger v Goat Formatu, boste spoznali, da ste razvili nek interni sistem nepisanih pravil, kaj je dobro setati 1st turn in kaj ne; večinoma je dobro to, kar lahko chainamo v primeru, da ima nasprotnik potem Breakerja (Scapegoat, ali pa MST/Dust Tornado, če smo bili drugi in je nasprotnik tudi setal svoj backrow), slabo pa to, kar ne moramo chainati.
 
 Seveda je velika verjetnost, da naš nasprotnik tudi pozna ta ista »nenapisana pravila« in bo igral v skladu z njimi. Okoli tega potekajo med mano in kolegi razprave skoraj vsakič, ko se dobimo, saj se prav zaradi teh pravil lahko igramo raznorazne »mindgamese«. Bom setal Sakuretsu in fliperja, da si garantiram njegovo preživetje in naslednji krog vzpostavim Tsuku-loop in tvegam Breakerja? Bom setal raje Scapegoat in igral okoli Breakerja? Nimam monstrov in ne setam Sakuretsuja, ker se bojim Breakerja. Kaj pa, če ima nasprotnik Spirit Reaperja ali Don Zalooga? … Tukaj se tudi vidi, zakaj je Ring of Destruction najbolši trap :P
 
-11. Nikoli ne setat Sangana
+**Nikoli ne setat Sangana
 
 Začetniki velikokrat mislijo, da je Sangan predober, da bi ga setali in tvegali Noblemana. Ni res. Setajte Sangana. Setajte ga pred nasprotnikovega TERa. Včasih vam bo nasprotnik aktiviral End Phase Scapegoate in si tokena spremenil v TERa in vam vzel Sangana. Takrat se mu toplo nasmehnite.
 
-12. Nikoli ne setat Sinister Serpenta
+**Nikoli ne setat Sinister Serpenta
 
 Bodimo bolj previdni s Sinistrom, kot s Sanganom, saj je načeloma bolj pomemben. Njega lažje setamo, ko je vsaj 1 Nobleman že šel skozi, preden se to zgodi pa rabite res dober razlog, da setate Sinistra.
 
-13. Setat Serpenta
+**Setat Serpenta
 
 Prehitro in brezpredmetno setanje Serpenta je lahko velika neumnost – ponavadi v začetku igre. Če nanj prileti Nobleman, smo bolj ranljivi proti Duotu, naša Tribe Infecting Virus in Graceful Charity izgubita svojo moč, prav tako smo ostali brez neskončnega vira level 1 monstrov za naše Metamorphosise.
 
-14. Dajanje preveč očitnih »readov«
+**Dajanje preveč očitnih »readov«
 
 Read je nekaj, kar naredi (vsaj malo dober) igralec, ko na podlagi našega obnašanja in / ali igranja pridobi informacije o naših kartah, pa naj bodo to karte v roki ali setane. Seveda bo dober igralec ob vsaki naši potezi dobil neke informacije o naših kartah in te se s časom nabirajo in postajajo vedno bolj verodostojne, vendar trenutno ne govorim o tem. Govorim o zelo zelo očitnih informacijah, ki jih nepazljivi igralci zastonj dajejo nasprotniku, npr. 15 sekundno razmišljanje ob summonu monstra močno nakazuje, da je setana karta Torrential Tribute, razmišljanje od napadu pa Sakuretsu Armor / Mirror Force, razmišljanje v End Phaseu, ko je nasprotnik ravno setal backrow in končal, pa nakazuje na MST / Dust Tornado (ali pa mogoče le Scapegoat, če je na polju primerna tarča za TERa).
 
 Take stvari lahko preprečimo, da o njih razmišljamo že preden do njih pride. Nasprotnika, ki je na to pozoren, lahko celo prelisičimo: ob summonu rečemo, naj počaka. Sedaj bo mislil, da razmišljamo o Torrential Tributu, v resnici pa razmišljamo le, če bomo aktivirali Mirror Force, ko bo napadel.
 
-15. Ne-spremljanje življenjskih točk
+**Ne-spremljanje življenjskih točk
 
 Tu pa tam pridemo do kritične točke, ko so nasprotnikove življenjske točke ravno take, da lahko naredimo nek čuden play in zmagamo, zato bodimo na to pozorni (npr. nasprotnik ima 1200 LP in mi imamo Sangana in Metamorphosis – kako lahko ta turn zmagamo?).
 
@@ -172,7 +172,7 @@ Tu pa tam pridemo do kritične točke, ko so nasprotnikove življenjske točke r
 
 Call of the Haunted s Sanganom v Graveyardu je boljši kot Call of the Haunted brez Sangana v Graveyardu. Podobno velja za Airknight Parshata. Če nimamo razloga, da bi setali CoTH, potem ga ne setajmo. Lahko ga pa setamo kadarkoli imamo v Graveyaradu Sangana, saj takrat CotH postane chainable.
 
-17. Klasični Morphing Jar
+**Klasični Morphing Jar
 
 Če vam naslednja situacija še ni znana, potem očitno še niste igrali proti začetniku v Goatih:
 
@@ -182,7 +182,7 @@ Najpogosteje to pomeni, da je setan monster Morphing Jar. In to je tudi najpogos
 
 Malce boljši smo lahko, če res hočemo odigrati 1st turn Jara, da poleg njega setamo npr. le Sakuretsu Armor. S tem ustavimo napad in nič hudega sluteč nasprotnik verjetno ne bo pomislil, da imamo Jara. Setal bo 1 backrow in končal. Nato lahko v svojem turnu setamo vsa svoj backrow in obrnemo Jara in smo si nakopali lep plus. A o Morphing Jaru bi lahko napisal še mnogo več; morda bo to članek za nekoč v prihodnosti.
 
-18. …
+**…
 
 To je seznam napak, ki so mi prišle na pamet v dveh 2-urnih vožnjah na avtobusu. Naj to pisarijo zaključim s citatom, ki govori o tem, kako ljudje igrajo Goat Format:
 
