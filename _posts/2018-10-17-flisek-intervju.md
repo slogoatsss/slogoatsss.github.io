@@ -71,3 +71,6 @@ Vabim vas, da se preizkusite v Goatih, če ne na turnirju, pa samo v friendly du
 Za konec pa še misel v mojem stilu. V tenisu imamo GOAT playerje, v Yu-Gi-Oh!-u pa GOAT formate. Upam, da sem vam dal več kot 6 razlogov, zakaj je Goat GOAT. =)
 
 Two Greats Of All Time:
+
+![GitHub Logo](/pics/logo.png)
+Format: ![Alt Text](url)
