@@ -72,4 +72,4 @@ Za konec pa še misel v mojem stilu. V tenisu imamo GOAT playerje, v Yu-Gi-Oh!-u
 
 Two Greats Of All Time:
 
-![alt text](pics/output_html_311dd1d1e8983889.jpg)
+![alt text](https://raw.githubusercontent.com/slogoatsss/slogoatsss.github.io/master/_posts/pics/output_html_311dd1d1e8983889.jpg)
