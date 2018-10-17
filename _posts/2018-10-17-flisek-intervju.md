@@ -1,6 +1,6 @@
 ---
 layout: post
-title: INTERVJU: MIHA FLISEK
+title: INTERVJU MIHA FLISEK
 date: 2018-10-17
 ---
 1. Na kratko se predstavi.
