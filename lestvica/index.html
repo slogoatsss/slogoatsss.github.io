@@ -18,8 +18,8 @@ title: Lestvica
 			var datarray=lines[i].split("-");
 			datarray.push(3*parseInt(datarray[1])+parseInt(datarray[3]));
 			lines[i]=datarray;
+			console.log(datarray);
 		}
-		console.log(lines);
 		lines.sort(function(a,b){
 			return b[5]-a[5];
 		});
