@@ -21,6 +21,7 @@ title: Lestvica
 			console.log(datarray);
 		}
 		lines.sort(function(a,b){
+			console.log(parseInt(b[5])+" "+parseInt(a[5]));
 			return b[5]-a[5];
 		});
 		console.log(lines);
