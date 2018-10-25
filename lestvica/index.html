@@ -17,15 +17,16 @@ title: Lestvica
 			}
 			var datarray=lines[i].split("-");
 			datarray.push(3*parseInt(datarray[1])+parseInt(datarray[3]));
-			lines[i]=datarray;
+			lines[i]={"ime":datarray[0],"zmage":parseInt(datarray[1]),"porazi":parseInt(datarray[2]),"drawi":parseInt(datarray[3]),"st_turnirjev":parseInt(datarray[4]),"tocke":datarray[5]};
 			console.log(datarray);
+			console.log(lines[i]);
 		}
 		lines.sort(function(a,b){
-			console.log(parseInt(b[5])+" "+parseInt(a[5]));
-			return b[5]-a[5];
+			return b.tocke-a.tocke;
 		});
-		console.log(lines);
+		console.log(lines[i]);
 		for(var i in lines){
+			console.log(lines[i]);
 			if(lines[i].length!==0){
 				var average=parseFloat(lines[i][5]/parseInt(lines[i][4]));
 				$("#tabela").append("<tr><td>"+lines[i][0]+"</td><td>"+lines[i][5]+"</td><td>"+lines[i][1]+"</td><td>"+lines[i][2]+"</td><td>"+lines[i][3]+"</td><td>"+lines[i][4]+"</td><td>"+average+"</td></tr>");
