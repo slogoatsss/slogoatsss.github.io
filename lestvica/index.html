@@ -28,8 +28,8 @@ title: Lestvica
 		for(var i in lines){
 			console.log(lines[i]);
 			if(lines[i].length!==0){
-				var average=parseFloat(lines[i][5]/parseInt(lines[i][4]));
-				$("#tabela").append("<tr><td>"+lines[i][0]+"</td><td>"+lines[i][5]+"</td><td>"+lines[i][1]+"</td><td>"+lines[i][2]+"</td><td>"+lines[i][3]+"</td><td>"+lines[i][4]+"</td><td>"+average+"</td></tr>");
+				var average=parseFloat(lines[i].tocke/lines[i].st_turnirjev);
+				$("#tabela").append("<tr><td>"+lines[i].ime+"</td><td>"+lines[i].tocke+"</td><td>"+lines[i].zmage+"</td><td>"+lines[i].porazi+"</td><td>"+lines[i].drawi+"</td><td>"+lines[i].st_turnirjev+"</td><td>"+average+"</td></tr>");
 			}
 		}
 	};
