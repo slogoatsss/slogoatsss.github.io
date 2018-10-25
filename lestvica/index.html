@@ -11,19 +11,16 @@ title: Lestvica
 	var fill=function(data){
 		var lines=data.split("\n");
 		for(var i in lines){
-			console.log(lines[i]);
-			console.log("len: "+lines[i].length);
 			if(lines[i].length==0||lines[i].charAt(0)==";"){
 				lines.splice(i,1);
 				continue;
 			}
 			var datarray=lines[i].split("-");
 			datarray.push(3*parseInt(datarray[1])+parseInt(datarray[3]));
-			console.log(datarray);
 			lines[i]={"ime":datarray[0],"zmage":parseInt(datarray[1]),"porazi":parseInt(datarray[2]),"drawi":parseInt(datarray[3]),"st_turnirjev":parseInt(datarray[4]),"tocke":datarray[5]};
+			console.log(lines);
+			console.log();
 		}
-		console.log();
-		console.log(lines);
 		lines.sort(function(a,b){
 			return b.tocke-a.tocke;
 		});
