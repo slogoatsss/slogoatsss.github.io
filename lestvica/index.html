@@ -10,6 +10,7 @@ title: Lestvica
 	});
 	var fill=function(data){
 		var lines=data.split("\n");
+		var jsonlines=[];
 		for(var i in lines){
 			if(lines[i].length==0||lines[i].charAt(0)==";"){
 				lines.splice(i,1);
@@ -17,13 +18,16 @@ title: Lestvica
 			}
 			var datarray=lines[i].split("-");
 			datarray.push(3*parseInt(datarray[1])+parseInt(datarray[3]));
-			lines[i]={"ime":datarray[0],"zmage":parseInt(datarray[1]),"porazi":parseInt(datarray[2]),"drawi":parseInt(datarray[3]),"st_turnirjev":parseInt(datarray[4]),"tocke":datarray[5]};
-			console.log(lines);
-			console.log();
+			jsonlines.push({"ime":datarray[0],"zmage":parseInt(datarray[1]),"porazi":parseInt(datarray[2]),"drawi":parseInt(datarray[3]),"st_turnirjev":parseInt(datarray[4]),"tocke":datarray[5]});
 		}
+		console.log(jsonlines);
 		lines.sort(function(a,b){
 			return b.tocke-a.tocke;
 		});
+		jsonlines.sort(function(a,b){
+			return b.tocke-a.tocke;
+		});
+		console.log(jsonlines);
 		for(var i in lines){
 			if(lines[i].length!==0){
 				var average=parseFloat(lines[i].tocke/lines[i].st_turnirjev);
