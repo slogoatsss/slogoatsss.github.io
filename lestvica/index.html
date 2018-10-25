@@ -28,11 +28,9 @@ title: Lestvica
 			return b.tocke-a.tocke;
 		});
 		console.log(jsonlines);
-		for(var i in lines){
-			if(lines[i].length!==0){
-				var average=parseFloat(lines[i].tocke/lines[i].st_turnirjev);
-				$("#tabela").append("<tr><td>"+lines[i].ime+"</td><td>"+lines[i].tocke+"</td><td>"+lines[i].zmage+"</td><td>"+lines[i].porazi+"</td><td>"+lines[i].drawi+"</td><td>"+lines[i].st_turnirjev+"</td><td>"+average+"</td></tr>");
-			}
+		for(var i in jsonlines){
+			var average=parseFloat(jsonlines[i].tocke/jsonlines[i].st_turnirjev);
+			$("#tabela").append("<tr><td>"+jsonlines[i].ime+"</td><td>"+jsonlines[i].tocke+"</td><td>"+jsonlines[i].zmage+"</td><td>"+jsonlines[i].porazi+"</td><td>"+jsonlines[i].drawi+"</td><td>"+jsonlines[i].st_turnirjev+"</td><td>"+average+"</td></tr>");
 		}
 	};
 	/*include $*/
