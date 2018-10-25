@@ -19,8 +19,8 @@ title: Lestvica
 			datarray.push(3*parseInt(datarray[1])+parseInt(datarray[3]));
 			lines[i]={"ime":datarray[0],"zmage":parseInt(datarray[1]),"porazi":parseInt(datarray[2]),"drawi":parseInt(datarray[3]),"st_turnirjev":parseInt(datarray[4]),"tocke":datarray[5]};
 		}
+		console.log(lines);
 		lines.sort(function(a,b){
-			console.log(a+" "+b);
 			return b.tocke-a.tocke;
 		});
 		for(var i in lines){
