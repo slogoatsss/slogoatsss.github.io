@@ -10,26 +10,27 @@ title: Lestvica
 	});
 	var fill=function(data){
 		var lines=data.split("\n");
+		var jsonlines=[];
 		for(var i in lines){
-			if(lines[i].length===0||lines[i].charAt(0)==";"){
+			if(lines[i].length==0||lines[i].charAt(0)==";"){
 				lines.splice(i,1);
 				continue;
 			}
 			var datarray=lines[i].split("-");
 			datarray.push(3*parseInt(datarray[1])+parseInt(datarray[3]));
-			lines[i]=datarray;
-			console.log(datarray);
+			jsonlines.push({"ime":datarray[0],"zmage":parseInt(datarray[1]),"porazi":parseInt(datarray[2]),"drawi":parseInt(datarray[3]),"st_turnirjev":parseInt(datarray[4]),"tocke":datarray[5]});
 		}
+		console.log(jsonlines);
 		lines.sort(function(a,b){
-			console.log(parseInt(b[5])+" "+parseInt(a[5]));
-			return b[5]-a[5];
+			return b.tocke-a.tocke;
 		});
-		console.log(lines);
-		for(var i in lines){
-			if(lines[i].length!==0){
-				var average=parseFloat(lines[i][5]/parseInt(lines[i][4]));
-				$("#tabela").append("<tr><td>"+lines[i][0]+"</td><td>"+lines[i][5]+"</td><td>"+lines[i][1]+"</td><td>"+lines[i][2]+"</td><td>"+lines[i][3]+"</td><td>"+lines[i][4]+"</td><td>"+average+"</td></tr>");
-			}
+		jsonlines.sort(function(a,b){
+			return b.tocke-a.tocke;
+		});
+		console.log(jsonlines);
+		for(var i in jsonlines){
+			var average=parseFloat(jsonlines[i].tocke/jsonlines[i].st_turnirjev);
+			$("#tabela").append("<tr><td>"+jsonlines[i].ime+"</td><td>"+jsonlines[i].tocke+"</td><td>"+jsonlines[i].zmage+"</td><td>"+jsonlines[i].porazi+"</td><td>"+jsonlines[i].drawi+"</td><td>"+jsonlines[i].st_turnirjev+"</td><td>"+average+"</td></tr>");
 		}
 	};
 	/*include $*/
