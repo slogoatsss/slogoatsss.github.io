@@ -62,4 +62,11 @@ ul.posts li {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+#rotate90 {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
 #autosizeImage {  width: 100%;  height: auto; } 
