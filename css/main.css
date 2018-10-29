@@ -6,6 +6,21 @@ body {
 	background-size: 300px 300px;
 	background-repeat: no-repeat;
 }
+table {
+   border-collapse:collapse;
+   text-align:left;
+}
+th {
+    padding: 7px;
+    text-align: left;
+    border: 1px solid black;
+	background-color: #F4A460;
+}
+td {
+    padding: 7px;
+    text-align: left;
+    border: 1px solid ;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
