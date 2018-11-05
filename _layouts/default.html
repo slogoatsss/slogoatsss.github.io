@@ -7,28 +7,36 @@
 			<script src="jquery-3.3.1.min.js"></script>
 		</head>
 		<body>
+		<header>
 			<nav>
 	    		<ul>
-	        		<li><a href="/">Domov</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-				<li><a href="/eventi">Eventi</a></li>
-				<li><a href="/profili">Profili igralcev</a></li>
-				<li><a href="/deckliste">Deckliste</a></li>
-				<li><a href="/lestvica">Lestvica</a></li>
-				<li><a href="/izposojevalnica">Izposojevalnica</a></li>
-				<li><a href="/arhiv">Arhiv</a></li>
+	        	<li><a class="two" href="/">Domov</a></li>
+	        	<li><a class="two" href="/blog">Blog</a></li>
+				<li><a class="two" href="/eventi">Eventi</a></li>
+				<li><a class="two" href="/profili">Profili igralcev</a></li>
+				<li><a class="two" href="/deckliste">Deckliste</a></li>
+				<li><a class="two" href="/lestvica">Lestvica</a></li>
+				<li><a class="two" href="/izposojevalnica">Izposojevalnica</a></li>
+				<li><a class="two" href="/arhiv">Arhiv</a></li>
 	    		</ul>
 			</nav>
-			<div class="container">
+		</header>
+		<div id="container">
+		
+		<div id= "body">
 			
 			{{ content }}
 			
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:slogoatsss@gmail.com">Kontakt</a></li>
-	        		<li>slogoatsss@gmail.com</li>
-				</ul>
-			</footer>
+		</div><!-- /.body -->
+		
+		<div id="footer">
+		<ul>
+			<li><a class="one" href="mailto:slogoatsss@gmail.com">Kontakt:</a></li>
+			<li>slogoatsss@gmail.com</li>
+		</ul>
+		</div><!-- /.footer -->
+		</div><!-- /.container -->
+
 		</body>
+		
 	</html>
