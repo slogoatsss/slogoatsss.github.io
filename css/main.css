@@ -20,7 +20,7 @@ body{
 }
 header {
 	box-sizing: border-box;
-	border-bottom: 3px solid #D2691E;
+	border-bottom: solid #D2691E;
 	background-color: #F4A460;
 }
 #container {
