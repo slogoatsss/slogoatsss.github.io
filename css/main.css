@@ -19,9 +19,11 @@ body{
 	box-sizing: border-box;
 }
 header {
-  overflow: hidden;
-  background-color: #f1f1f1;
-  padding: 20px 10px;
+	height: 45px;
+	box-sizing: border-box;
+	border-bottom: 3px solid #D2691E;
+	background-color: #F4A460;
+	top: 0px;
 }
 #container {
 	min-height:100%;
