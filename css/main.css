@@ -27,8 +27,7 @@ header {
 }
 @media only screen and (max-width: 1300px) {
     header {
-        height {90px
-}
+        height: 90px
 }
 #container {
 	min-height:100%;
