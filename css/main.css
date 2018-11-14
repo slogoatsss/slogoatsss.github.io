@@ -19,15 +19,10 @@ body{
 	box-sizing: border-box;
 }
 header {
-	height: 45px;
 	box-sizing: border-box;
 	border-bottom: 3px solid #D2691E;
 	background-color: #F4A460;
 	top: 0px;
-}
-@media only screen and (max-width: 1300px) {
-    header {
-        height: 90px
 }
 #container {
 	min-height:100%;
