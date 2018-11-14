@@ -19,9 +19,19 @@ body{
 	box-sizing: border-box;
 }
 header {
-	box-sizing: border-box;
-	border-bottom: solid #D2691E;
-	background-color: #F4A460;
+  overflow: hidden;
+  background-color: #f1f1f1;
+  padding: 20px 10px;
+}
+header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
 }
 #container {
 	min-height:100%;
