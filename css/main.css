@@ -99,7 +99,6 @@ p {
 	text-align: center-left;
 	float: left;
 	overflow: hidden;
-	background-image: url("border.png");
 	z-index: -1;
 }
 #footer li{
