@@ -29,7 +29,7 @@ title: Lestvica
 		});
 		console.log(jsonlines);
 		for(var i in jsonlines){
-			var average=parseFloat(jsonlines[i].tocke/jsonlines[i].st_turnirjev);
+			var average=parseFloat(jsonlines[i].tocke/jsonlines[i].st_turnirjev).toFixed(1);
 			$("#tabela").append("<tr><td>"+jsonlines[i].ime+"</td><td>"+jsonlines[i].tocke+"</td><td>"+jsonlines[i].zmage+"</td><td>"+jsonlines[i].porazi+"</td><td>"+jsonlines[i].drawi+"</td><td>"+jsonlines[i].st_turnirjev+"</td><td>"+average+"</td></tr>");
 		}
 	};
