@@ -1,12 +1,14 @@
-Miha Flisek-6-0-2-2
-Jaka Fortunat-4-2-2-2
-Jaka Basej-3-5-0-2
+Miha Flisek-10-0-2-3
+Jaka Fortunat-7-3-2-3
+Jaka Basej-5-7-0-3
 Luka Krašna-2-2-0-1
 Matija Saksida-2-2-0-1
-Nik Vidmar-1-3-0-1
-Alen Bizjak-5-1-2-2
-Gašper Govekar-2-6-0-2
+Nik Vidmar-4-4-0-2
+Alen Bizjak-8-2-2-3
+Gašper Govekar-3-9-0-3
 Tomaž Pustotnik-3-1-0-1
-Urh Hudoklin-1-3-0-1
+Urh Hudoklin-2-6-0-2
 Jani Groznik-0-4-0-1
+Matjaž Lovrečič-1-3-0-1
+Tine Lovišček-2-2-0-1
 ;i&p-zmage-porazi-drawi-št.turnirjev
