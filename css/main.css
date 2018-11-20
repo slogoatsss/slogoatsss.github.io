@@ -18,6 +18,13 @@ body{
 	padding-bottom: 30px;
 	box-sizing: border-box;
 }
+@media screen and (max-width: 1050px) {
+    #body {
+        margin-left: 0;
+        width: auto;
+	padding: 10px;
+    }
+}
 header {
 	box-sizing: border-box;
 	background-color: #F4A460;
@@ -49,15 +56,20 @@ td {
 nav ul, footer ul {
 	margin-left: 15em;
 	margin-top: 0px;
-	width: 70%;
+	width: 100%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
+@media only screen and (max-width: 1050px) {
+    nav ul, footer ul {
+        margin-left: 0;
+		margin-right:0;
+    }
+}
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
 }
 a{
     text-decoration: none;
@@ -78,6 +90,12 @@ a.two:link, a.two:visited {
 a.two:hover, a.two:active {
     background-color: white;
 	color: black;
+}
+@media only screen and (max-width: 600px) {
+    a.two:link, a.two:visited {
+        display: block;
+		border-radius: 0px ;
+    }
 }
 h1 {
     font-size: 3em;
@@ -103,6 +121,11 @@ p {
 }
 #footer li{
 	display: inline;
+}
+@media screen and (max-width: 1050px) {
+    #footer {
+        text-indent: 0;
+    }
 }
 ul.posts { 
     margin: 20px auto 40px; 
