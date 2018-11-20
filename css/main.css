@@ -125,6 +125,7 @@ p {
 @media screen and (max-width: 1050px) {
     #footer {
         text-indent: 0;
+	min-width: 70%;
     }
 }
 ul.posts { 
