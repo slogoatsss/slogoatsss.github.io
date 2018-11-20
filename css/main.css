@@ -56,7 +56,7 @@ td {
 nav ul, footer ul {
 	margin-left: 15em;
 	margin-top: 0px;
-	width: 100%;
+	width: auto;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
