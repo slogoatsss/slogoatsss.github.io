@@ -2,7 +2,34 @@
 layout: default
 title: Profili igralcev
 ---
+<script>
+function sortList() {
+  var list, i, switching, b, shouldSwitch;
+  list = document.getElementById("id01");
+  switching = true;
+  while (switching) {
+    switching = false;
+    b = list.getElementsByTagName("P");
+    for (i = 0; i < (b.length - 1); i++) {
+      shouldSwitch = false;
+      if (b[i].innerHTML.toLowerCase() > b[i + 1].innerHTML.toLowerCase()) {
+        shouldSwitch = true;
+        break;
+      }
+    }
+    if (shouldSwitch) {
+      b[i].parentNode.insertBefore(b[i + 1], b[i]);
+      switching = true;
+    }
+  }
+}
+window.onload = function() {
+  sortList();
+};
+</script>
+
 <div class="blurb">
+	<div id="id01">
 	<h1>Profili igralcev</h1>
 	<p><a href="profil/JakaFortunat/index.html">Jaka Fortunat</a></p>
 	<p><a href="profil/AlenBizjak/index.html">Alen Bizjak</a></p>
@@ -16,4 +43,5 @@ title: Profili igralcev
 	<p><a href="profil/MatijaSaksida/index.html">Matija Saksida</a></p>
 	<p><a href="profil/TineLoviscek/index.html">Tine Lovišček</a></p>
 	<p><a href="profil/MatjazLovrecic/index.html">Matjaž Lovrečič</a></p>
+	</div><!-- /.id01 -->
 </div><!-- /.blurb -->
