@@ -1,4 +1,3 @@
-toggle between hiding and showing the dropdown content */
 function myFunction() {
     document.getElementById("id02").classList.toggle("show");
 }
