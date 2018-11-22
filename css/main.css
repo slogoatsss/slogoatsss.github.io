@@ -34,7 +34,6 @@ header {
 	min-height:100%;
 	position:relative;
 	box-sizing: border-box;
-
 }
 
 table {
@@ -56,6 +55,7 @@ td {
 nav ul, footer ul {
 	margin-left: 15em;
 	margin-top: 0px;
+	margin-right: 0;
 	width: auto;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -64,8 +64,19 @@ nav ul, footer ul {
 }
 @media only screen and (max-width: 1050px) {
     nav ul, footer ul {
-        margin-left: 0;
+        	margin-left: 0;
 		margin-right:0;
+    }
+}
+@media only screen and (max-width: 600px) {
+    nav ul, footer ul {
+		display: none;
+        	position: absolute;
+		box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+		width: 100%;
+		background-color: #F4A460;
+		margin-right:0;
+		z-index: 1;
     }
 }
 nav ul li, footer ul li {
@@ -93,8 +104,9 @@ a.two:hover, a.two:active {
 }
 @media only screen and (max-width: 600px) {
     a.two:link, a.two:visited {
-        display: block;
-		border-radius: 0px ;
+        	display: block;
+		border-radius: 0px;
+	    	text-align: left;
     }
 }
 h1 {
@@ -179,6 +191,29 @@ br {
 div.rotate {
     transform: rotate(270deg);
 }
+.dropbtn {
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	background-color: #F4A460;
+    color: black;
+    padding: 16px;
+    font-size: 1.5em;
+    border: none;
+    cursor: pointer;
+	font-weight: bold;
+	text-align: center;
+	display: block;
+}
+@media screen and (min-width: 600px) {
+.dropbtn {
+	display: none;
+	}
+}
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #D2691E;
+}
+
+.show {display:block;}
+
 .scaled{  
   -ms-transform: scale(0.5);
   -webkit-transform: scale(0.5);
