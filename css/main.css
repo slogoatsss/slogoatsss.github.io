@@ -18,6 +18,9 @@ body{
 	padding-bottom: 30px;
 	box-sizing: border-box;
 }
+@viewport {
+	width: device-width;
+}
 @media screen and (max-width: 1050px) {
     #body {
         margin-left: 0;
