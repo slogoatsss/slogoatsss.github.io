@@ -71,7 +71,7 @@ nav ul, footer ul {
 		margin-right:0;
     }
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1050px) {
     nav ul, footer ul {
 		display: none;
         	position: absolute;
@@ -105,7 +105,7 @@ a.two:hover, a.two:active {
     background-color: white;
 	color: black;
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1050px) {
     a.two:link, a.two:visited {
         	display: block;
 		border-radius: 0px;
@@ -206,7 +206,7 @@ div.rotate {
 	text-align: center;
 	display: block;
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1050px) {
 .dropbtn {
 	display: none;
 	}
