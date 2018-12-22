@@ -4,6 +4,7 @@ title: COVERAGE – 15. 12. 2018
 date: 2018-12-22
 ---
 Četrti SloGoatsss turnir – 15. 12. 2018 – coverage
+
 Četrti in zadnji Slogoatsss turnir v letu 2018 se je zaključil. Božičnih koz se je udeležilo 9 igralcev, od tega kar 3 novi igralci: Severin Baršek, Vitjan Glavčič in Dean Rojc. Kot vedno se je igralo 4 runde swissa, začenši šele ob 14.00 (naš Monarch player je imel obveznosti v šoli). Ker se približuje Božič in ker smo tudi organizatorji Slogoatsss eventa praznično razpoloženi, smo tokrat posojali Goat decke kar zastonj. Priložnost je z obema rokama zgrabil Dean Rojc, ki je pokazal, da se še kako dobro spomni svojih »pastirskih let« iz 2005 in povedel pred večino ter se skoraj udeležil samega finala s kom drugim kakor Slogoatsss favoritom Miho Fliskom, kateremu je šlo tokrat za nohte že v drugem matchu proti Monarchom, posamezni matchi so kot vedno dostopni na spodnjem linku:
 
 https://www.youtube.com/user/TheDarkSideApproach/videos
