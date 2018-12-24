@@ -10,11 +10,17 @@ date: 2018-12-22
 https://www.youtube.com/user/TheDarkSideApproach/videos
 
 Na turnirju se je zbralo kar nekaj različic Goat Format deckov, imeli smo
+
 Warrior Hand Control
+
 Monarch
-4 Goat Control
+
+4x Goat Control
+
 Chaos Recruiter
+
 Angel Chaos
+
 in nazadnje še tako imenovan »Flisk Spicy Sauce«, za katerega menimo, da za zmago ni kriv deck ampak eterično olje iz domačih ovac, katerega očitno uporablja pred vsakim Slogoatsss turnirjem.
 
 Zagotovo je bil najbolj zanimiva nova različica Chaos Recruiter decka, katera je mnoge igralce, ki menijo, da je karta Creature Swap slaba, prisilila, da so potočili solzo ali dve, ko so menjali svojega beaterja/flipperja za navaden paradižnik, ki se po bitki vrne nazaj na nasprotnikovo stran. Opaziti pa je bilo, da manjkajo naši ikonični Burn decki pod pilotiranjem Tineta Loviščka in Gašperja Govekarja. Upamo, da imata oba tehten razlog za neudeležbo. Priča smo bili tudi prvemu turnirskemu obračunu Deana »Baggio« Rojca in Jake Fortunata kot dolgoletnemu pregledu veščin ter znanj mentorja in njegovega učenca.
