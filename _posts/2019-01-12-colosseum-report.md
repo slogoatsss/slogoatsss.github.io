@@ -343,7 +343,7 @@ of the game. I have to admit, I didn't expect you to be this good...and Miha, yo
 you are still tough. It has been a pleasure playing with you two. «
 
 Shout out to Urh for thinking that Miha is crazy for playing for money in a team with me, shout out
-to Miha for doing it regardless, shout out to everyone who played in this amazing tournament, shout
+to Miha for doing it regardless, shoutout to Slogoatsss and Slovenian Goat community, shout out to everyone who played in this amazing tournament, shout
 out to Luxury Gaming Tournaments and JT Patterson for hosting it, shout out to
 [http://www.goatformat.com](http://www.goatformat.com) for providing amazing Goat Format content and lastly, shout out to everyone
 who plays and sacks me on goatformat.com discord ranked ladder so that I can become better ;)!
