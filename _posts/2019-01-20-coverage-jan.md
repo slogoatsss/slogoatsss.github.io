@@ -16,5 +16,7 @@ Ponovno smo ostali brez finala in deck profilov, ovrgli pa smo tudi večkrat pon
 https://www.youtube.com/user/TheDarkSideApproach/videos
 
 … kjer so dostopni tudi Feature Matchi prejšnjih SloGoatsss turnirjev. Za informativne potrebe morebitnih novih igralcev je štirirundni turnir brez finala trajal 4h, od 12h do 16h. V prihodnje bi želeli videti še kakšen nov obraz, ki bi želel odigrati igro na višjem nivoju, kot to lahko prejme z igro s prijatelji na lokalnih turnirjih. Zahvala gre še Sandiju za razumno in efektivno sporazumevanje v uvodnem delu turnirja, obenem smo mu vsi igralci hvaležni za dodatek gratis LART kart.
+
 Se vidimo naslednjič, do takrat pa srečno!
+
 Ekipa SloGoatsss
