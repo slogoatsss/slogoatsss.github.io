@@ -10,7 +10,7 @@ za tiste, ki me še ne poznate, moje ime je Nik Vidmar aka. Monarch Madman. Sem 
 
 **1. How it all started**
 
-Kakor že ime samo moje stalna izbira decka so Monarchi. Lahko se pohvalim, da še nikoli nisem stopil na Goat side event z istim deckom, vedno so bile prirejene manjše spremembe v decku ali sajdu, na začetku slabše, po dolgi in boleči poti in veliko testanja pa vedno boljše.
+Kakor že ime samo pove, moja stalna izbira decka so Monarchi. Lahko se pohvalim, da še nikoli nisem stopil na Goat side event z istim deckom, vedno so bile prirejene manjše spremembe v decku ali sajdu, na začetku slabše, po dolgi in boleči poti in veliko testanja pa vedno boljše.
 
 Zakaj ravno Monarchi? 
 Poleg tega, da so Monarchi my all time favourite monsters jim Goat format ravnodušno ponuja veliko supporta v obliki spell kart in seveda nekaj odličnih tribute fodderjev. Na kratko:
@@ -60,7 +60,7 @@ Testanje samega decka je trajalo kar precej časa in tukaj se lahko zahvalim tud
 2. Match: Matija Saksida (Goat Control) – 2/1
 3. Match: Dean Rojc (Rojc Control) – 2/1
 4. Match: Tadej Zindreih (Goat Control) – 2/0
-FINALE: Split cuz hangry with Jaka Fortunat. 
+FINALE: Split cuz hungry with Jaka Fortunat. 
 
 
 Posameznih matchov se skoraj ne spomnim, celoten feature match proti Deanu Rojcu je dostopen na spodnjem linku: https://youtu.be/lpzAuWeG5-g.
