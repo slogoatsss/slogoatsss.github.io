@@ -1,3 +1,8 @@
+---
+layout: post
+title: MONARCH UNDEFEATED - MANJŠI REPORT IN PREDSTAVITEV DECKA
+date: 2019-02-15
+---
 Slogoatsss side event Vič 19.1.2019
 
 Pozdravljeni,
