@@ -4,6 +4,8 @@ layout: post
 title: COVERAGE – 23. 02. 2019
 date: 2019-02-25
 ---
+
+
 SloGoatsss Side Event 23-02-2019 – COVERAGE
 
 Današnji turnir zaznamujeta tako velika raznovrstnost deckov, kot tudi nujne obveznosti oziroma težave nekaterih že uveljavljenih pastirjev, ki se na žalost turnirja zaradi le-teh niso mogli udeležiti (nekateri so morali na maturantski ples, spet drugim pa je drevo padlo na cesto in so tako ostali odrezani od sveta).
