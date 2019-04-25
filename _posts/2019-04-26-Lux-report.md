@@ -8,9 +8,13 @@ LUXURY 32-MAN GOAT FORMAT TOURNAMENT REPORT AND SOME OTHER STUFF
 This was a double elimination best of 3 tourney, played in April 2019, with $20 entry fee and the following prize pool:
 
 1<sup>st</sup> place: $400 plus exclusive goat mat
+
 2<sup>nd</sup> place: $60 plus exclusive goat mat
+
 3<sup>rd\\ </sup>place: exclusive goat mat
+
 4<sup>th</sup> place: exclusive goat mat
+
 
 What makes this tournament special, in my opinion, is the fact that the two decks that reached the finals (mine with 1 loss and Chris DiGregorio's undefeated) are at this point in time pretty unrecognized in the goat format community, although both decks have been achieving some good results in the recent tournaments and in goatformat.com's ranked ladder. These two decks are Jazz's Chaos Flip Turbo deck (which was piloted by Chris) and Nicey's Chaos Control deck (or Asura Chaos as I call it). More about these decks later on.
 
