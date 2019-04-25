@@ -108,7 +108,7 @@ Jazz's Turbo deck has in my opinion proved its worth, not only when I easily too
 
 Nicey's Chaos Control deck has become my favourite version of Chaos Control, and in my opinion it is the best version currently in existence. With proper side deck that deals with alt-wins appropriately, the deck is without a doubt tier 1, next to Goat Control. Compared to Goat, it has some better and some worse match-ups, and against Goat Control itself the deck does well; it is still a skilled grind game where the better player will win, so which deck is better mostly depends on the other decks that are played in the event. I also think that both Goat Control and Asura Chaos are favoured against Jazz's Turbo Chaos deck IF they are siding properly.
 
-I'd like to say thanks to Kyuna who helped me to test against Chaos Turbo deck, to Brandis who helped with the side deck, to Nicey who gave me the decklist and to Spare for proofreading the whole thing.
+I'd like to say thanks to Kyuna who helped me to test against Chaos Turbo deck, to Brandis who helped with the side deck, to Nicey who gave me the decklist and to Spare for proofreading the whole thing. Shout out to Walia for being the best Goat player ever and to Morpp for wanting to be featured in this report.
 
 That is all for this report, I hope you enjoyed reading it.
 
