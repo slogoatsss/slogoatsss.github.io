@@ -86,7 +86,7 @@ Round 4 vs Danny Spring (Goat Control) 2-0
 
 <https://www.duelingbook.com/replay?id=25926-9244077>
 
-My very first move is a misplay, after that it\]s the grind and I win. Game 2 he adds Snatch for Merchant and I make my CS into a Senshi which he can't out so I win. :D
+My very first move is a misplay, after that it's the grind and I win. Game 2 he adds Snatch from Merchant and I make my CS into a Senshi which he can't out so I win. :D
 
 Semi Finals vs Chris DiGregorio (Chaos Flip Turbo) 1-2
 
