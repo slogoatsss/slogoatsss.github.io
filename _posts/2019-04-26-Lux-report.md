@@ -11,7 +11,7 @@ This was a double elimination best of 3 tourney, played in April 2019, with $20 
 
 2<sup>nd</sup> place: $60 plus exclusive goat mat
 
-3<sup>rd\\ </sup>place: exclusive goat mat
+3<sup>rd</sup>place: exclusive goat mat
 
 4<sup>th</sup> place: exclusive goat mat
 
