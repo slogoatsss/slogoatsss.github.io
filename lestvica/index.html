@@ -29,6 +29,8 @@ title: Lestvica
 		});
 		console.log(jsonlines);
 		for(var i in jsonlines){
+			var winrate=parseFloat(jsonlines[i].zmage*100.0/(jsonlines[i].zmage+jsonlines[i].porazi));
+			console.log(winrate);
 			var average=parseFloat(jsonlines[i].tocke/jsonlines[i].st_turnirjev).toFixed(1);
 			$("#tabela").append("<tr><td>"+jsonlines[i].ime+"</td><td>"+jsonlines[i].tocke+"</td><td>"+jsonlines[i].zmage+"</td><td>"+jsonlines[i].porazi+"</td><td>"+jsonlines[i].drawi+"</td><td>"+jsonlines[i].st_turnirjev+"</td><td>"+average+"</td></tr>");
 		}
