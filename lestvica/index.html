@@ -20,19 +20,16 @@ title: Lestvica
 			datarray.push(3*parseInt(datarray[1])+parseInt(datarray[3]));
 			jsonlines.push({"ime":datarray[0],"zmage":parseInt(datarray[1]),"porazi":parseInt(datarray[2]),"drawi":parseInt(datarray[3]),"st_turnirjev":parseInt(datarray[4]),"tocke":datarray[5]});
 		}
-		console.log(jsonlines);
 		lines.sort(function(a,b){
 			return b.tocke-a.tocke;
 		});
 		jsonlines.sort(function(a,b){
 			return b.tocke-a.tocke;
 		});
-		console.log(jsonlines);
 		for(var i in jsonlines){
 			var winrate=parseFloat(jsonlines[i].zmage*100.0/(jsonlines[i].zmage+jsonlines[i].porazi)).toFixed(2);
-			console.log(winrate);
 			var average=parseFloat(jsonlines[i].tocke/jsonlines[i].st_turnirjev).toFixed(1);
-			$("#tabela").append("<tr><td>"+jsonlines[i].ime+"</td><td>"+jsonlines[i].tocke+"</td><td>"+jsonlines[i].zmage+"</td><td>"+jsonlines[i].porazi+"</td><td>"+jsonlines[i].drawi+"</td><td>"+jsonlines[i].st_turnirjev+"</td><td>"+average+"</td></tr>");
+			$("#tabela").append("<tr><td>"+jsonlines[i].ime+"</td><td>"+jsonlines[i].tocke+"</td><td>"+jsonlines[i].zmage+"</td><td>"+jsonlines[i].porazi+"</td><td>"+jsonlines[i].drawi+"</td><td>"+jsonlines[i].st_turnirjev+"</td><td>"+average+"</td><td>"+winrate+"</td></tr>");
 		}
 	};
 	/*include $*/
@@ -67,6 +64,7 @@ title: Lestvica
 			<th><h3>Izenačenja</h3></th>
 			<th><h3>Število turnirjev</h3></th>
 			<th><h3>Povprečje točk/turnir</h3></th>
+			<th><h3>Razmerje zmag/poraz</h3></th>
 		</tr>
 	</table>
 </div><!-- /.blurb -->
