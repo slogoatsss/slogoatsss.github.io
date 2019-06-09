@@ -1,12 +1,12 @@
 Miha Flisek-19-7-2-7
 Tadej Zinreih-3-5-0-2
-Jaka Fortunat-22-12-2-9
+Jaka Fortunat-24-14-2-10
 Jaka Basej-7-9-0-4
 Luka Krašna-2-2-0-1
-Matija Saksida-9-10-1-5
+Matija Saksida-12-11-1-6
 Nik Vidmar-18-6-0-6
-Alen Bizjak-25-9-2-9
-Gašper Govekar-9-15-0-6
+Alen Bizjak-29-9-2-10
+Gašper Govekar-11-17-0-6
 Tomaž Pustotnik-3-1-0-1
 Urh Hudoklin-2-6-0-2
 Jani Groznik-1-7-0-2
@@ -14,8 +14,9 @@ Matjaž Lovrečič-1-3-0-1
 Tine Lovišček-3-5-0-2
 Dean Rojc-4-4-0-2
 Vitjan Glavičič-2-2-0-1
-Severin Baršek-6-13-1-5
+Severin Baršek-8-15-1-6
 Blaž Didič-4-4-0-2
 Lovro Udovč-3-5-0-2
 Aleksander Mikac-1-3-0-1
+Ivan Šlogar-1-3-0-1
 ;ime&priimek-zmage-porazi-drawi-št.turnirjev
