@@ -13,8 +13,7 @@ title: Lestvica
 		var rdytofill=[];
 		console.log(players);
 		for(var i=0;i<players.length;i++){
-			var playerdata={"ime":players[i].ime,"zmage":players[i].zmage,"porazi":players[i].porazi,"drawi":players[i].drawi,"st":players[i].st,"tocke":3*parseInt(i.zmage)+parseInt(i.drawi)};
-			console.log(playerdata);
+			var playerdata={"ime":players[i].ime,"zmage":players[i].zmage,"porazi":players[i].porazi,"drawi":players[i].drawi,"st":players[i].st,"tocke":3*parseInt(players[i].zmage)+parseInt(players[i].drawi)};
 			rdytofill.push(playerdata);
 		}
 		console.log(rdytofill);
