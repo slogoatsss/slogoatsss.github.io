@@ -11,17 +11,11 @@ title: Lestvica
 	var fill=function(data){
 		var players=JSON.parse(data);
 		console.log(players);
-		/*var lines=data.split("\n");
-		var jsonlines=[];
-		for(var i in lines){
-			if(lines[i].length==0||lines[i].charAt(0)==";"){
-				lines.splice(i,1);
-				continue;
-			}
-			var datarray=lines[i].split("-");
-			datarray.push(3*parseInt(datarray[1])+parseInt(datarray[3]));
-			jsonlines.push({"ime":datarray[0],"zmage":parseInt(datarray[1]),"porazi":parseInt(datarray[2]),"drawi":parseInt(datarray[3]),"st_turnirjev":parseInt(datarray[4]),"tocke":datarray[5]});
+		for(var i in players){
+			i={"ime":i.ime,"zmage":i.zmage,"porazi":i.porazi,"drawi":i.drawi,"st":i.st,"tocke":3*parseInt(i.zmage)+parseInt(i.drawi))};
 		}
+		console.log(players);
+		/*
 		lines.sort(function(a,b){
 			return b.tocke-a.tocke;
 		});
