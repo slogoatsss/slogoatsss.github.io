@@ -4,7 +4,7 @@ title: Lestvica
 ---
 <script type="text/javascript">
 	$("document").ready(function(){
-		$.get('ranking.txt',function(data){
+		$.get('ranking.json',function(data){
 			fill(data);
 		},'text');
 	});
