@@ -26,6 +26,7 @@ title: Lestvica
 		jsonlines.sort(function(a,b){
 			return b.tocke-a.tocke;
 		});
+		console.log(lines);
 		console.log(jsonlines);
 		for(var i in jsonlines){
 			var winrate=parseFloat(jsonlines[i].zmage*100.0/(jsonlines[i].zmage+jsonlines[i].porazi)).toFixed(2);
