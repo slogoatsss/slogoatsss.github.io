@@ -16,17 +16,11 @@ title: Lestvica
 			var playerdata={"ime":players[i].ime,"zmage":players[i].zmage,"porazi":players[i].porazi,"drawi":players[i].drawi,"st":players[i].st,"tocke":3*parseInt(players[i].zmage)+parseInt(players[i].drawi)};
 			rdytofill.push(playerdata);
 		}
+		rdytofill.sort(function(a,b){
+			return b.tocke-a.tocke;
+		});
 		console.log(rdytofill);
 		/*
-		lines.sort(function(a,b){
-			return b.tocke-a.tocke;
-		});
-		jsonlines.sort(function(a,b){
-			return b.tocke-a.tocke;
-		});
-		console.log(lines);
-		console.log(jsonlines);
-                console.log(JSON.parse(jsonlines));
 		for(var i in jsonlines){
 			var winrate=parseFloat(jsonlines[i].zmage*100.0/(jsonlines[i].zmage+jsonlines[i].porazi)).toFixed(2);
 			var average=parseFloat(jsonlines[i].tocke/jsonlines[i].st_turnirjev).toFixed(1);
