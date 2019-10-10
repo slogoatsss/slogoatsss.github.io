@@ -12,17 +12,23 @@ title: Lestvica
 		var rdytofill=[];
 		console.log(players);
 		for(var i=0;i<players.length;i++){
-			var playerdata={"ime":players[i].ime,"zmage":players[i].zmage,"porazi":players[i].porazi,"drawi":players[i].drawi,"st":players[i].st,"tocke":3*parseInt(players[i].zmage)+parseInt(players[i].drawi)};
+			var playerdata={"ime":players[i].ime,"priimek":players[i].priimek,"zmage":players[i].zmage,"porazi":players[i].porazi,"drawi":players[i].drawi,"st":players[i].st,"tocke":3*parseInt(players[i].zmage)+parseInt(players[i].drawi)};
 			rdytofill.push(playerdata);
 		}
 		rdytofill.sort(function(a,b){
 			return b.tocke-a.tocke;
 		});
+		rdytofill.sort(function(a,b){
+			return b.ime-a.ime;
+		});
+		rdytofill.sort(function(a,b){
+			return b.priimek-a.priimek;
+		});
 		console.log(rdytofill);
 		for(var i in rdytofill){
 			var winrate=parseFloat(rdytofill[i].zmage*100.0/(rdytofill[i].zmage+rdytofill[i].porazi)).toFixed(2);
 			var average=parseFloat(rdytofill[i].tocke/rdytofill[i].st).toFixed(1);
-			$("#tabela").append("<tr><td>"+rdytofill[i].ime+"</td><td>"+rdytofill[i].tocke+"</td><td>"+rdytofill[i].zmage+"</td><td>"+rdytofill[i].porazi+"</td><td>"+rdytofill[i].drawi+"</td><td>"+rdytofill[i].st+"</td><td>"+average+"</td><td>"+winrate+"</td></tr>");
+			$("#tabela").append("<tr><td>"+string.concat(rdytofill[i].ime," ",rdytofill[i].priimek)+"</td><td>"+rdytofill[i].tocke+"</td><td>"+rdytofill[i].zmage+"</td><td>"+rdytofill[i].porazi+"</td><td>"+rdytofill[i].drawi+"</td><td>"+rdytofill[i].st+"</td><td>"+average+"</td><td>"+winrate+"</td></tr>");
 		}
 	};
 	/*include $*/
