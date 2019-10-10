@@ -28,7 +28,7 @@ title: Lestvica
 		for(var i in rdytofill){
 			var winrate=parseFloat(rdytofill[i].zmage*100.0/(rdytofill[i].zmage+rdytofill[i].porazi)).toFixed(2);
 			var average=parseFloat(rdytofill[i].tocke/rdytofill[i].st).toFixed(1);
-			$("#tabela").append("<tr><td>"+string.concat(rdytofill[i].ime," ",rdytofill[i].priimek)+"</td><td>"+rdytofill[i].tocke+"</td><td>"+rdytofill[i].zmage+"</td><td>"+rdytofill[i].porazi+"</td><td>"+rdytofill[i].drawi+"</td><td>"+rdytofill[i].st+"</td><td>"+average+"</td><td>"+winrate+"</td></tr>");
+			$("#tabela").append("<tr><td>"+String.concat(rdytofill[i].ime," ",rdytofill[i].priimek)+"</td><td>"+rdytofill[i].tocke+"</td><td>"+rdytofill[i].zmage+"</td><td>"+rdytofill[i].porazi+"</td><td>"+rdytofill[i].drawi+"</td><td>"+rdytofill[i].st+"</td><td>"+average+"</td><td>"+winrate+"</td></tr>");
 		}
 	};
 	/*include $*/
