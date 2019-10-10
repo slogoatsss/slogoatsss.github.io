@@ -16,10 +16,11 @@ title: Lestvica
 			rdytofill.push(playerdata);
 		}
 		rdytofill.sort(function(a,b){
-			return b.tocke-a.tocke;
-		});
-		rdytofill.sort(function(a,b){
-			return a.ime<b.ime?-1:(a.ime>b.ime?1:0);
+			if(b.tocke-a.tocke==0){
+				return a.ime>b.ime?1:(a.ime<b.ime?-1:0);
+			} else{
+				return b.tocke-a.tocke;
+			}
 		});
 		console.log(rdytofill);
 		for(var i in rdytofill){
