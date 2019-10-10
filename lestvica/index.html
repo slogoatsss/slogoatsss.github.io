@@ -21,9 +21,6 @@ title: Lestvica
 		rdytofill.sort(function(a,b){
 			return b.ime-a.ime;
 		});
-		rdytofill.sort(function(a,b){
-			return b.priimek-a.priimek;
-		});
 		console.log(rdytofill);
 		for(var i in rdytofill){
 			var winrate=parseFloat(rdytofill[i].zmage*100.0/(rdytofill[i].zmage+rdytofill[i].porazi)).toFixed(2);
