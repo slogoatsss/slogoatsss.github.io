@@ -6,7 +6,7 @@ title: Lestvica
 	$("document").ready(function(){
 		$.get('ranking.json',function(data){
 			fill(data);
-		},'text');
+		},'json');
 	});
 	var fill=function(data){
 		var players=JSON.parse(data);
