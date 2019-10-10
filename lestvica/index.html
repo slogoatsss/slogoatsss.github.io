@@ -19,7 +19,7 @@ title: Lestvica
 			return b.tocke-a.tocke;
 		});
 		rdytofill.sort(function(a,b){
-			return a.ime-b.ime;
+			return a.ime<b.ime?-1:(a.ime>b.ime?1:0);
 		});
 		console.log(rdytofill);
 		for(var i in rdytofill){
