@@ -8,9 +8,7 @@ title: Lestvica
 			fill(data);
 		},'json');
 	});
-	var fill=function(data){
-		console.log(data);
-		var players=JSON.parse(data);
+	var fill=function(players){
 		var rdytofill=[];
 		console.log(players);
 		for(var i=0;i<players.length;i++){
