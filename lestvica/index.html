@@ -9,6 +9,7 @@ title: Lestvica
 		},'json');
 	});
 	var fill=function(data){
+		console.log(data);/*
 		var players=JSON.parse(data);
 		var rdytofill=[];
 		console.log(players);
@@ -24,7 +25,7 @@ title: Lestvica
 			var winrate=parseFloat(rdytofill[i].zmage*100.0/(rdytofill[i].zmage+rdytofill[i].porazi)).toFixed(2);
 			var average=parseFloat(rdytofill[i].tocke/rdytofill[i].st).toFixed(1);
 			$("#tabela").append("<tr><td>"+rdytofill[i].ime+"</td><td>"+rdytofill[i].tocke+"</td><td>"+rdytofill[i].zmage+"</td><td>"+rdytofill[i].porazi+"</td><td>"+rdytofill[i].drawi+"</td><td>"+rdytofill[i].st+"</td><td>"+average+"</td><td>"+winrate+"</td></tr>");
-		}
+		}*/
 	};
 	/*include $*/
 </script>
